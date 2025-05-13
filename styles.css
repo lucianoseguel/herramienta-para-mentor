@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    max-width: 60vw;
+}
+
+.form{
+    display: grid;
+    margin: auto;
+    grid-template-columns: 1fr;
+    gap: 5px
+}
+
+#name{
+    padding: 10px;
+}
