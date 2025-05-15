@@ -106,6 +106,10 @@ function creadordate  (){
     let anio = fecha.getFullYear()
     let hora = fecha.getHours()
     let minuto = fecha.getMinutes()
+    if (minuto < 10) {
+        minuto = "0" + minuto
+    }
+
 
     let fecha_formateada = weekday + " " +  dia + "/" + mes + "/" + anio + " " + hora + ":" + minuto
 
