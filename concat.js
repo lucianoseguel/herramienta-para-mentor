@@ -1,5 +1,8 @@
 
 //* Funcion para mandar al mail
+let contando = 0
+
+
 
 function to_mail (){
     let nombre = document.getElementById("name")
@@ -19,9 +22,36 @@ function to_mail (){
     nuevo_cuerpo = cuerpo_split.join(" ")   // Texto deuelto otra vez como string
     console.log(nuevo_cuerpo)
 
-
+    counter()
     navigator.clipboard.writeText(nuevo_cuerpo);
 }
+
+
+function to_whatsapp() {
+
+   
+    let nombre = document.getElementById("name").value
+    let cuerpo = document.getElementById("textbody").value
+    console.log(nombre)
+    console.log(cuerpo)
+
+    cuerpo_split = cuerpo.split(" ") //Funcion para separar el texto en array
+    console.log(cuerpo_split)
+
+    cuerpo_split = reemplazar(cuerpo_split, nombre)
+    
+    // Todo el texto concatenado
+    nuevo_cuerpo = cuerpo_split.join(" ")   // Texto deuelto otra vez como string
+    console.log(nuevo_cuerpo)
+
+    let inform = `[${creadordate()}] Luciano Seguel: ${nuevo_cuerpo}`
+
+   console.log (inform)
+
+   navigator.clipboard.writeText(inform);
+
+}
+
 
 //*Funcion para indormar y pegar en el roaster */
 
@@ -52,6 +82,7 @@ Mentor Serving BYU-Pathway Worldwide
 Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
 
    console.log (inform)
+
    navigator.clipboard.writeText(inform);
 
 }
@@ -65,9 +96,12 @@ function reemplazar ( texto, nombre) {
 
     for (let i = 0; i < texto.length; i++) {
 
-        if (texto[i] == "[name]") {
+        if (texto[i] == "[name]," ) {
 
-            texto[i] =  nombre
+            texto[i] =  nombre + ","
+            console.log(texto[i])
+        } else if (texto[i] == "[name]"){
+            texto[i] =  nombre 
             console.log(texto[i])
         }
         
@@ -117,4 +151,13 @@ function creadordate  (){
     return fecha_formateada
     
 
+}
+
+function counter() {
+
+    let contador = document.getElementById("contador")
+    
+    
+    contando += 1
+    contador.textContent = "Contador: " + contando
 }
