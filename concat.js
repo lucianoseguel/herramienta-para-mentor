@@ -103,7 +103,11 @@ function reemplazar ( texto, nombre) {
         } else if (texto[i] == "[name]"){
             texto[i] =  nombre 
             console.log(texto[i])
+        } else if (texto[i] == "[name]!"){
+            texto[i] =  nombre + "!"
+            console.log(texto[i])
         }
+        
         
         
     
