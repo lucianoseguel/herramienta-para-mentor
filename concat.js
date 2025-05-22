@@ -149,7 +149,7 @@ function creadordate  (){
     }
 
 
-    let fecha_formateada = weekday + " " +  dia + "/" + mes + "/" + anio + " " + hora + ":" + minuto
+    let fecha_formateada = dia + "/" + mes + "/" + anio + " " + hora + ":" + minuto
 
     console.log(fecha_formateada)
     return fecha_formateada
