@@ -14,7 +14,7 @@ main{
     gap: 5px
 }
 
-#name, #textbody{
+#name, #textbody, #subject{
     padding: 10px;
 }
 
@@ -22,4 +22,19 @@ main{
 margin: 1em;
 padding: 1em;
 
+}
+
+table{
+    padding: 20px;
+    border: 2px solid black;
+    gap: 5px;
+}
+
+.tbody,tr,td{
+    border: 1px solid black;
+    
+}
+
+td{
+    padding:  5px 22px;
 }
