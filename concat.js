@@ -269,8 +269,45 @@ function counter() {
 
 
 const student_list = [
-    ["Luciano Seguel", "luciano.seguel@outlook.com","5492615894553"],
-    ["Luciano Seguel", "luciano.seguel@outlook.com","46654654"]
+    ["Amy Gamez", "luisjrgamez@gmail.com","19857743380"],
+    ["Brittyn Lee Werner", "brittyn.owens@outlook.com",""],
+    ["Charlotte Davis", "charlottaunicorns@outlook.com",""],
+    ["Aimoto Tammy Mata'utia", "anoaloifale4life.pa@gmail.com",""],
+    ["Alexandra Lopez Hernandez", "alexmnrlopez@gmail.com"],
+    ["Alexandra Paige Nielsen", "alliecat811@icloud.com"],
+    ["Alexandria Christine Alles", "alexandriaalles@yahoo.com"],
+    ["Aristhide Nobanza", "nobanza@gmail.com"],
+    ["Ashton McKenney Morris", "mhbelliston@comcast.net"],
+    ["Aubrey Thayn", "aubreythayn@gmail.com"],
+    ["Bailey Alves", "bailey.alves98@gmail.com", "12086958677"], 
+    ["Bianca de Oliveira Souza", "biancaosouzaz@gmail.com", "14357206088"],
+    ["Brinlee Cole", "brincole05@icloud.com"],
+    ["Cayla Bowen", "cayla.wheeler19@gmail.com", "15057160095"],
+    ["Christina Mariko Campbell", "Christina@caryendo.com"],
+    ["Claudia Liliana Canelas Lobo", "claudiacanelaslobo@gmail.com"],
+    ["Dalen Andrew James", "dalenjames0@gmail.com", "18016683677"],
+    ["Dana Taimalelagi Yamauchi", "lagijosh@gmail.com"],
+    ["Darcie Burrows", "darcieruvalcaba@gmail.com"],
+    ["Deborah Anne Larson", "dizdeb3@msn.com"],
+    ["Devin Lynn Merrell", "deviboi@gmail.com"],
+    ["Drelyn Tate Roker", "briefinglaw@gmail.com"],
+    ["Eliza Charlene Awong", "charleneawong01@gmail.com"],
+    ["Elizabeth Michelle Stoddard", "z_dog_90@hotmail.com", "14802581540"],
+    ["Emmanuella Lorena Rogers", "rena27aj@icloud.com", "233550363277"],
+    ["Ericka Martinez Olivares", "ericka_martinez27@yahoo.com"],
+    ["Felipe Narcizo Leza", "f_leza@hotmail.com", "12104752540"],
+    ["Francisco Manases Ipiña Herrera", "eslabon010@gmail.com"],
+    ["Gabriela Joset Suarez", "Gabysu25@gmail.com", "18018352761"],
+    ["Georgina Mendoza", "guzgina@gmail.com"],
+    ["Icmer Moises Rodriguez", "moises.franco702@gmail.com", "15056598112"],
+    ["Jacob Robert Clark", "jakeclark426@gmail.com", "18015544152"],
+    ["James Eric Leight", "james.e.leight@gmail.com"],
+    ["Jennifer Ann Toledo", "jenniferatoledo19@gmail.com"],
+    ["Jennifer Daniel", "littlejendaniel@gmail.com"],
+    ["Jessica Rosales", "Jessixarosales@gmail.com"]
+
+
+
 ]
 
 
