@@ -190,8 +190,6 @@ Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
 
 
 
-
-
 function reemplazar ( texto, nombre) {
 //Leer y reemplazar el name por el nombre del estudiante
 
@@ -269,6 +267,7 @@ function counter() {
 
 
 const student_list = [
+    ["Aaron Nathaniel Blakley", "sirorinar@gmail.com"],
     ["Amy Gamez", "luisjrgamez@gmail.com","19857743380"],
     ["Brittyn Lee Werner", "brittyn.owens@outlook.com",""],
     ["Charlotte Davis", "charlottaunicorns@outlook.com",""],
@@ -304,7 +303,62 @@ const student_list = [
     ["James Eric Leight", "james.e.leight@gmail.com"],
     ["Jennifer Ann Toledo", "jenniferatoledo19@gmail.com"],
     ["Jennifer Daniel", "littlejendaniel@gmail.com"],
-    ["Jessica Rosales", "Jessixarosales@gmail.com"]
+    ["Jessica Rosales", "Jessixarosales@gmail.com"],
+    ["Joe Isael Sercovich Velasquez", "joe.sercovich@gmail.com"],
+    ["Jett Roche", "onehandcatch@outlook.com"],
+    ["Johana Guadalupe Bravo", "johanabravo16@yahoo.com", "12138422702"],
+    ["John Christopher Kleckner", "johnklcknr@gmail.com"],
+    ["John Clarke", "ejc201921@gmail.com"],
+    ["John Garrison Graham", "JohnGGraham@gmail.com"],
+    ["Kayla Marie Olsen", "KaylaOlsen@comcast.net"],
+    ["Kennia Andrea Veizaga Teran", "kenniaavt@gmail.com", "59161685110"],
+    ["Laura Arely Martinez Ontiveros", "lauraelizarraraz30@gmail.com", "13852088884"],
+    ["Lavinia Dean", "Laviniadean26@gmail.com"],
+    ["Liliana Rebecca McKenzie", "lilimcknz@gmail.com"],
+    ["Lindsay Ann Germer", "findserendipityadventures@gmail.com", "18016689496"],
+    ["Lindsey Marie Peine", "peinelindsey@gmail.com"],
+    ["Losaline Lili Latu", "iluvmyboats@yahoo.com"],
+    ["Manuia P Bridge", "anuhea2410@gmail.com", "18176097553"],
+    ["Marc Aaron Guy The Younger", "theyoungerbear@cs.com"],
+    ["Marina Lima de Souza", "marinalimadesouza1@gmail.com", "13855494730"],
+    ["Mark Nielson", "mnielson321@gmail.com"],
+    ["Matthew Landon Moulton", "moultonml8@gmail.com"],
+    ["Merari Edem", "r.edem0508@gmail.com", "18019194988"],
+    ["Mery Nalbandyan Khurshudyan", "Meri.rohm@gmail.com"],
+    ["Micah Ann Stepan", "Micahstepan@gmail.com"],
+    ["Mikaila Hansen", "hansenmikaila306@gmail.com"],
+    ["Natali Seidmann Banuelos", "nataliseidmann@hotmail.com"],
+    ["Orlando Eliezer Vivas Ramirez", "oralvivas122@gmail.com"],
+    ["Pablo Christopher Hinojosa Iturra", "p.hinojosa2511@gmail.com", "18013859506"],
+    ["Quin Luke Woolstenhulme", "quinwools88@gmail.com", "12083604690"],
+    ["Rebecca Ann Watson", "therealbeckywatson@gmail.com", "528132406242"],
+    ["Rebecca Rose Garcia Voigt", "rebeccagarcia2007@gmail.com", "16086880497"],
+    ["Renan Laurentis", "renan.laurentis@hotmail.com"],
+    ["Sandra Marcela Mendoza", "sandymmg1@gmail.com", "18635109855"],
+    ["Sarah Ashlie Patterson", "sarahashlierandall@gmail.com"],
+    ["Shanna Aleta Wagner", "kountryfrog@gmail.com", "19723952549"],
+    ["Shannon Allwood", "Shannon.allwood@gmail.com", "16412170270"],
+    ["Shawni Lynn Thomas", "shawnilwiliams@gmail.com", "14358301229"],
+    ["Sheryl Johnson", "GrannyEnchanted1@Gmail.Com"],
+    ["Simone Bagni", "zime83@googlemail.com", "18014935651"],
+    ["Susan Maria Cheatham", "susan.cheatham@imail.org"],
+    ["Uriel Coria", "urielfotos2001@gmail.com", "18016697786"],
+    ["Valishia Sue Hawkins", "valishiahawkins@gmail.com"],
+    ["Wilma Azucena Adams", "azuprtl@gmail.com"],
+    ["Yvette Azucena Flores", "yvette458@gmail.com"],
+    ["Lesly Susset Menacho Pino de Alfaro", "leslymenacho@hotmail.com"],
+    ["Lorinda Field", "fishin.fields@gmail.com", "14357641686"],
+    ["Macey Branson", "Maceybranson@gmail.com"],
+    ["Michael Joseph Smith", "mike@smith8.org"],
+    ["Olha Victorovna Smyrnova", "olya35968@gmail.com"],
+    ["Pamela Fontenele", "pamelacfontenele@gmail.com", "+18019701789"],
+    ["Peter James Babcock", "peterb@saefl.com"],
+    ["Rodrigo Toledo Garcés", "rodrigo.toledo.garces@gmail.com"],
+    ["Sandra Chavez", "sandrachavez_3@hotmail.com", "18016167470"],
+    ["Sierra Nicole Eldredge", "sierraeldredge34@gmail.com"],
+    ["Susanah Hyde", "shyde70@icloud.com"],
+    ["Theresa Marie Pitts", "thempitts@gmail.com"],
+
 
 
 
