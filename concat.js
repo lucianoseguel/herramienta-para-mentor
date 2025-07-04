@@ -300,6 +300,7 @@ const student_list = [
     ["Georgina Mendoza", "guzgina@gmail.com"],
     ["Icmer Moises Rodriguez", "moises.franco702@gmail.com", "15056598112"],
     ["Jacob Robert Clark", "jakeclark426@gmail.com", "18015544152"],
+    ["Jacob Thompson", "jacobethompson18@gmail.com"],
     ["James Eric Leight", "james.e.leight@gmail.com"],
     ["Jennifer Ann Toledo", "jenniferatoledo19@gmail.com"],
     ["Jennifer Daniel", "littlejendaniel@gmail.com"],
