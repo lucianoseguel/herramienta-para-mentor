@@ -281,6 +281,7 @@ const student_list = [
     ["Bailey Alves", "bailey.alves98@gmail.com", "12086958677"], 
     ["Bianca de Oliveira Souza", "biancaosouzaz@gmail.com", "14357206088"],
     ["Brinlee Cole", "brincole05@icloud.com"],
+    ["Charlotte Davis", "charlottaunicorns@outlook.com"],
     ["Cayla Bowen", "cayla.wheeler19@gmail.com", "15057160095"],
     ["Christina Mariko Campbell", "Christina@caryendo.com"],
     ["Claudia Liliana Canelas Lobo", "claudiacanelaslobo@gmail.com"],
