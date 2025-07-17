@@ -378,8 +378,6 @@ const student_list = [
     ["Theresa Marie Pitts", "thempitts@gmail.com"],
 
 
-
-
 ]
 
 
