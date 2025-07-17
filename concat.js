@@ -23,7 +23,7 @@ function to_mail (){
     console.log(nuevo_cuerpo)
 
     counter()
-    navigator.clipboard.writeText(nuevo_cuerpo);
+    navigator.clipboard.writeText(reemplazar_0A( nuevo_cuerpo));
 
   
 
@@ -85,7 +85,7 @@ function to_whatsapp_table(nombre) {
 
    console.log (inform)
 
-   navigator.clipboard.writeText(inform);
+   navigator.clipboard.writeText(reemplazar_0A( inform));
 
 }
 
@@ -112,7 +112,7 @@ function to_whatsapp() {
 
    console.log (inform)
 
-   navigator.clipboard.writeText(inform);
+   navigator.clipboard.writeText(reemplazar_0A( inform));
 
 }
 
@@ -147,7 +147,7 @@ Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
 
    console.log (inform)
 
-   navigator.clipboard.writeText(inform);
+   navigator.clipboard.writeText(reemplazar_0A( inform));
 
 }
 
@@ -184,7 +184,7 @@ Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
 
    console.log (inform)
 
-   navigator.clipboard.writeText(inform);
+   navigator.clipboard.writeText(reemplazar_0A( inform));
 
 }
 
@@ -213,6 +213,23 @@ function reemplazar ( texto, nombre) {
     }  
 
     return texto
+}
+
+function reemplazar_0A (texto){
+    text_array = texto.split(" ")
+    console.log(text_array)
+    for (let i = 0; i < text_array.length; i++) {
+
+        if (text_array[i] == "%0A" ) {
+
+            text_array[i] =  " "
+            console.log(text_array[i])
+        }
+        
+        
+    }  
+
+    return text_array.join(" ")
 }
 
 
