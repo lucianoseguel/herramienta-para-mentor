@@ -381,6 +381,7 @@ const student_list = [
     ["Renan Laurentis", "renan.laurentis@hotmail.com"],
     ["Sandra Marcela Mendoza", "sandymmg1@gmail.com", "18635109855"],
     ["Sarah Ashlie Patterson", "sarahashlierandall@gmail.com"],
+    ["Sarah Jane Lamb", "sarahlamb@ubtanet.com"],
     ["Shanna Aleta Wagner", "kountryfrog@gmail.com", "19723952549"],
     ["Shannon Allwood", "Shannon.allwood@gmail.com", "16412170270"],
     ["Shawni Lynn Thomas", "shawnilwiliams@gmail.com", "14358301229"],
