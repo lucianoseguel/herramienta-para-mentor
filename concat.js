@@ -286,7 +286,6 @@ function counter() {
 const student_list = [
     ["Aaron Nathaniel Blakley", "sirorinar@gmail.com"],
     ["Amy Gamez", "luisjrgamez@gmail.com","19857743380"],
-    ["Brittyn Lee Werner", "brittyn.owens@outlook.com",""],
     ["Aimoto Tammy Mata'utia", "anoaloifale4life.pa@gmail.com",""],
     ["Alexandra Lopez Hernandez", "alexmnrlopez@gmail.com"],
     ["Alexandra Paige Nielsen", "alliecat811@icloud.com"],
@@ -357,6 +356,7 @@ const student_list = [
     ["John Garrison Graham", "JohnGGraham@gmail.com"],
     ["Kayla Marie Olsen", "KaylaOlsen@comcast.net"],
     ["Kennia Andrea Veizaga Teran", "kenniaavt@gmail.com", "59161685110"],
+    ["Katerina Heddell","katerinaheddell@gmail.com"]
     ["Laura Arely Martinez Ontiveros", "lauraelizarraraz30@gmail.com", "13852088884"],
     ["Lavinia Dean", "Laviniadean26@gmail.com"],
     ["Liliana Rebecca McKenzie", "lilimcknz@gmail.com"],
