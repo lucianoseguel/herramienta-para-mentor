@@ -356,7 +356,7 @@ const student_list = [
     ["John Garrison Graham", "JohnGGraham@gmail.com"],
     ["Kayla Marie Olsen", "KaylaOlsen@comcast.net"],
     ["Kennia Andrea Veizaga Teran", "kenniaavt@gmail.com", "59161685110"],
-    ["Katerina Heddell","katerinaheddell@gmail.com"]
+    ["Katerina Heddell","katerinaheddell@gmail.com"],
     ["Laura Arely Martinez Ontiveros", "lauraelizarraraz30@gmail.com", "13852088884"],
     ["Lavinia Dean", "Laviniadean26@gmail.com"],
     ["Liliana Rebecca McKenzie", "lilimcknz@gmail.com"],
