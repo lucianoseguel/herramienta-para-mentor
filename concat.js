@@ -141,6 +141,8 @@ ${nuevo_cuerpo}
 
 Warmly,
 Luciano Seguel
+Mentor
+Springboard
 Mentor Serving BYU-Pathway Worldwide
   WhatsApp: +54 9 2615894553
 Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
@@ -178,6 +180,8 @@ ${nuevo_cuerpo}
 
 Warmly,
 Luciano Seguel
+Mentor
+Springboard
 Mentor Serving BYU-Pathway Worldwide
   WhatsApp: +54 9 2615894553
 Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
