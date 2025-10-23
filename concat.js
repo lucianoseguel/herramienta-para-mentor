@@ -81,7 +81,11 @@ function to_whatsapp_table(nombre) {
     nuevo_cuerpo = cuerpo_split.join(" ")   // Texto deuelto otra vez como string
     console.log(nuevo_cuerpo)
 
-    let inform = `[${creadordate()}] Luciano Seguel: ${nuevo_cuerpo}`
+    let inform = `[${creadordate()}] Luciano Seguel: ${nuevo_cuerpo} %0A 
+            Luciano Seguel %0A 
+            Mentor %0A 
+            Springboard %0A 
+            Serving BYU-Pathway Worldwide`
 
    console.log (inform)
 
@@ -108,7 +112,11 @@ function to_whatsapp() {
     nuevo_cuerpo = cuerpo_split.join(" ")   // Texto deuelto otra vez como string
     console.log(nuevo_cuerpo)
 
-    let inform = `[${creadordate()}] Luciano Seguel: ${nuevo_cuerpo}`
+    let inform = `[${creadordate()}] Luciano Seguel: ${nuevo_cuerpo} %0A 
+            Luciano Seguel %0A 
+            Mentor %0A 
+            Springboard %0A 
+            Serving BYU-Pathway Worldwide`
 
    console.log (inform)
 
@@ -182,7 +190,7 @@ Warmly,
 Luciano Seguel
 Mentor
 Springboard
-Mentor Serving BYU-Pathway Worldwide
+Serving BYU-Pathway Worldwide
   WhatsApp: +54 9 2615894553
 Schedule a chat: https://calendly.com/lucianitoseguel/luciano-seguel-mentoring`
 
@@ -439,7 +447,12 @@ for (let i = 0; i < student_list.length; i++){
        let message = final_text_table(student_list[i][0]) //renderiza el mensaje para copiarlo y enviarlo
         console.log(message)
         to_whatsapp_table(student_list[i][0]) //Copia para informar
-        window.open(`https://api.whatsapp.com/send?phone=${student_list[i][2]}&text=${message}`, '_blank');
+        window.open(`https://api.whatsapp.com/send?phone=${student_list[i][2]}&text=${message} %0A 
+            Luciano Seguel %0A 
+            Mentor %0A 
+            Springboard %0A 
+            Serving BYU-Pathway Worldwide
+             `, '_blank');
         
         
                 
