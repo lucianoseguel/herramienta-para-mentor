@@ -377,6 +377,8 @@ const student_list = [
 ["Matt Petersen", "petersenmatt442@gmail.com"],
   ["Matthew Landon Moulton", "moultonml8@gmail.com"],
   ["Matthew Blake Horsley", "mhorsleylax21@gmail.com", "18013811229"],
+  ["Maryan Taka", "maryantaufa@gmail.com", "18019138109"]
+  ["Maryana Molina", "maryannepina1986@gmail.com", "18018972358"]
   ["Mery Nalbandyan Khurshudyan", "Meri.rohm@gmail.com"],
   ["Micah Ann Stepan", "Micahstepan@gmail.com"],
   ["Mikaila Hansen", "hansenmikaila306@gmail.com"],
