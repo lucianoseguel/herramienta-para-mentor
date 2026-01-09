@@ -428,6 +428,14 @@ const student_list = [
   ["Winifred Abigail Ashton", "winnie.ashton25@gmail.com", "15013508132"],
   ["Woodrow John Snow", "woodrow2021@outlook.com", "14358287669"],
   ["Xaidie Jain Campbell", "xaidie.campbell@gmail.com", "+15083099639"],
+  ["Xereni Yamileth Garcia Alvarez", "xerenialvarez@outlook.com", "+13852235376"],
+  ["Xiaobing Zhang", "shuhuaok@gmail.com", "19293914348"],
+  ["Xiaomei Wang", "lisayang20114@gmail.com", "+1929720860"],
+  ["Zachary Jeffery", "zachjeffery13@gmail.com", "18013001658"],
+  ["Zachary Schultz", "bassguy2344@gmail.com", "14792384597"],
+  ["Zackary Lyman Munson", "zmunson2001@gmail.com", ""],
+  ["Zoe Tully", "zbear108@gmail.com", "17606944133"],
+  ["Zuhua Meng", "meng_zuhua@163.com", "+16468869689"]
 
 
 
