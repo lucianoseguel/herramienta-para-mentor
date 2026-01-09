@@ -430,7 +430,7 @@ const student_list = [
   ["Xaidie Jain Campbell", "xaidie.campbell@gmail.com", "+15083099639"],
   ["Xereni Yamileth Garcia Alvarez", "xerenialvarez@outlook.com", "+13852235376"],
   ["Xiaobing Zhang", "shuhuaok@gmail.com", "19293914348"],
-  ["Xiaomei Wang", "lisayang20114@gmail.com", "+1929720860"],
+  ["Xiaomei Wang", "lisayang20114@gmail.com"],
   ["Zachary Jeffery", "zachjeffery13@gmail.com", "18013001658"],
   ["Zachary Schultz", "bassguy2344@gmail.com", "14792384597"],
   ["Zackary Lyman Munson", "zmunson2001@gmail.com", ""],
