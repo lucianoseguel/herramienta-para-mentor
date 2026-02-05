@@ -397,7 +397,7 @@ const student_list = [
 ["Matthew Player", "embplayer@gmail.com"],
 ["Matthew Ryan Basham", "Mattbash02@outlook.com"],
 ["Matthew Schmidt", "mschmidty892@gmail.com"],
-["Matthew Kofoed","mattkofoed06@gmail.com", "14357991235"],
+["Matthew Kofoed","mattkofoed06@gmail.com"],
 ["Matthew Chase Longeddy", "mattlongeddy@gmail.com"],
 ["Matthew Howcroft", "matthew@howcrofts.com", "18017170650"],
 ["Matthew Jay Gifford", "matthewjaygifford@gmail.com"],
