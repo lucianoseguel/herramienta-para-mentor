@@ -295,9 +295,19 @@ function counter() {
 }
 
 
+function disccounter() {
+
+    let contador = document.getElementById("contador")
+    
+    
+    contando -= 1
+    contador.textContent = "Contador: " + contando
+}
+
+
 const student_list = [
    ["Aaron Nathaniel Blakley", "sirorinar@gmail.com"],
-  ["Amy Gamez", "luisjrgamez@gmail.com"],
+  ["Amy Gamez", "luisjrgamez@gmail.com","19857743380"],
   ["Amy J Zullo", "amyjzullo@gmail.com" ],
   ["Amy Lynn Laurilla", "amylaurilla@gmail.com"],
   ["Ana Bessi Ortez Mendoza", "concord1988@gmail.com", "17042240215"],
@@ -305,7 +315,7 @@ const student_list = [
     ["Andrea Leyva Blancas", "caroley1203@gmail.com", "522297165259"],
     ["Andrea Ruth Fisk", "dreafisk@gmail.com", "18014400069"],
     ["Andrew Call Swallow", "jediandrew@cox.net", "14805996568"],
-    ["Andrew Mathews", "amathjam@gmail.com", "15099407040"],
+    ["Andrew Mathews", "amathjam@gmail.com"],
     ["Andrew Moroni DeCamps", "andrew.decamps@gmail.com", "18325744481"],
 
   ["Aristhide Nobanza", "nobanza@gmail.com"],
@@ -349,7 +359,7 @@ const student_list = [
   ["David Benjamin Hancock", "david16bh@gmail.com", "19282433054"],
   ["Deborah Anne Larson", "dizdeb3@msn.com"],
   ["Devin Lynn Merrell", "deviboi@gmail.com"],
-  ["Douglas Christopher Orton","c121s@pm.me","17754444867"],
+  ["Douglas Christopher Orton","c121s@pm.me",""],
   ["Elizabeth Michelle Stoddard", "z_dog_90@hotmail.com", "14802581540"],
   ["Edna Sahev Lopez Ramirez","bonjour.sahev@gmail.com","15588345050"],
   ["Emmanuella Lorena Rogers", "rena27aj@icloud.com", "233550363277"],
@@ -421,7 +431,7 @@ const student_list = [
   ["Theresa Marie Pitts", "thempitts@gmail.com"],["Valishia Sue Hawkins", "valishiahawkins@gmail.com"],
   ["William Getchell", "willgetchell41@gmail.com", "12073038336"],
   ["William Guinn", "guinnlawrence@hotmail.com", "12066398477"],
-  ["William Kirk Garrett", "wkirkgarrett@hotmail.com", "18012279927"],
+  ["William Kirk Garrett", "wkirkgarrett@hotmail.com"],
   ["William Wyatt Mylan", "wmydrums@gmail.com", "15156572701"],
   
   ["Wilma Azucena Adams", "azuprtl@gmail.com"],
@@ -431,7 +441,7 @@ const student_list = [
   ["Xereni Yamileth Garcia Alvarez", "xerenialvarez@outlook.com", "+13852235376"],
   ["Xiaobing Zhang", "shuhuaok@gmail.com", "19293914348"],
   ["Xiaomei Wang", "lisayang20114@gmail.com"],
-  ["Zachary Jeffery", "zachjeffery13@gmail.com", "18013001658"],
+  ["Zachary Jeffery", "zachjeffery13@gmail.com"],
   ["Zachary Schultz", "bassguy2344@gmail.com", "14792384597"],
   ["Zackary Lyman Munson", "zmunson2001@gmail.com", ""],
   ["Zoe Tully", "zbear108@gmail.com", "17606944133"],
